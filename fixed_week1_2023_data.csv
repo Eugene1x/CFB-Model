@@ -1,0 +1,334 @@
+season,week,home_team,away_team,home_points,away_points,spread,over_under,neutral_site,home_conference,away_conference,venue
+2023,1,Notre Dame,Navy,42,3,,,True,FBS Independents,American Athletic,Aviva Stadium
+2023,1,Mercer,North Alabama,17,7,,,True,Southern,UAC,Cramton Bowl
+2023,1,Jacksonville State,UTEP,17,14,,,False,Conference USA,Conference USA,AmFirst Stadium
+2023,1,San Diego State,Ohio,20,13,,,False,Mountain West,Mid-American,Snapdragon Stadium
+2023,1,UAlbany,Fordham,34,13,,,False,CAA,Patriot,Bob Ford Field
+2023,1,New Mexico State,Massachusetts,30,41,,,False,Conference USA,FBS Independents,Aggie Memorial Stadium
+2023,1,Vanderbilt,Hawai'i,35,28,,,False,SEC,Mountain West,FirstBank Stadium
+2023,1,Jackson State,South Carolina State,37,7,,,True,SWAC,MEAC,Center Parc Stadium
+2023,1,USC,San José State,56,28,,,False,Pac-12,Mountain West,Los Angeles Memorial Coliseum
+2023,1,Louisiana Tech,Florida International,22,17,,,False,Conference USA,Conference USA,Joe Aillet Stadium
+2023,1,Kennesaw State,Greeneville,38,7,,,False,FCS Independents,South Atlantic,Fifth Third Stadium
+2023,1,East Texas A&M,UC Davis,10,48,,,False,Southland,Big Sky,Memorial Stadium (Commerce TX)
+2023,1,Lamar,Idaho,17,42,,,False,Southland,Big Sky,Provost Umphrey Stadium
+2023,1,Hiram College,Heidelberg,14,68,,,False,North Coast,Ohio,Charles A. Henry Field
+2023,1,New Haven,Frostburg State,24,27,,,False,Northeast 10,Mountain East,Ralph F. DellaCamera Stadium
+2023,1,Morehead State,West Virginia State,37,35,,,False,Pioneer,Mountain East,Jayne Stadium
+2023,1,Northwood (MI),Glenville State,9,44,,,False,Great Midwest Athletic,Mountain East,Hantz Stadium
+2023,1,Charleston Southern,North Greenville,13,10,,,False,Big South-OVC,Gulf South,Buccaneer Field
+2023,1,Wingate,Albany State GA,30,7,,,False,South Atlantic,SIAC,Irwin Belk Stadium
+2023,1,Alderson-Broaddus,PennWest California,0,0,,,False,Mountain East,Pennsylvania State Athletic,Multi-Sport Performance Stadium
+2023,1,Keiser University,Mississippi College,14,17,,,True,,Gulf South,Keiser Multi-Purpose Field
+2023,1,Saginaw Valley State,Winona State,34,24,,,False,GLIAC,Northern Sun,Harvey Randall Wickes Memorial Stadium
+2023,1,Wilson,Chowan,41,0,,,False,South Atlantic,Gulf South,Electric Supply Company Field
+2023,1,UNC Pembroke,Fayetteville State,19,17,,,False,Mountain East,CIAA,Grace P. Johnson Stadium
+2023,1,Rowan,Stevenson,17,20,,,False,New Jersey,Mid Atlantic,Richard Wackar Stadium
+2023,1,Lakeland,Wisconsin-Platteville,13,80,,,False,NACC,Wisconsin,Taylor Field
+2023,1,Sioux Falls,Minnesota State Mankato,26,54,,,False,Northern Sun,Northern Sun,Bob Young Field
+2023,1,Wayne State (NE),Minnesota State Moorhead,31,23,,,False,Northern Sun,Northern Sun,"Memorial Stadium (Wayne, NE)"
+2023,1,Indiana-Pennsylvania,Ashland,24,17,,,False,Pennsylvania State Athletic,Great Midwest Athletic,George P. Miller Stadium
+2023,1,Carson-Newman College,Virginia University Of Lynchburg,35,3,,,False,South Atlantic,,Burke-Tarr Stadium
+2023,1,Furman,Tennessee Tech,45,10,,,False,Southern,Big South-OVC,Paladin Stadium
+2023,1,Samford,Shorter,69,14,,,False,Southern,Gulf South,Seibert Stadium
+2023,1,Western Michigan,St. Francis (PA),35,17,,,False,Mid-American,NEC,Waldo Stadium
+2023,1,Bemidji State,Northern State,49,13,,,False,Northern Sun,Northern Sun,Chet Anderson Stadium
+2023,1,West Georgia,Limestone,21,19,,,False,Gulf South,South Atlantic,University Stadium (GA)
+2023,1,UCF,Kent State,56,6,,,False,Big 12,Mid-American,FBC Mortgage Stadium
+2023,1,Lincoln (PA),Clarion,20,30,,,False,CIAA,Pennsylvania State Athletic,Lincoln University Stadium
+2023,1,Indiana State,Eastern Illinois,0,27,,,False,MVFC,Big South-OVC,Memorial Stadium
+2023,1,Wheeling,Seton Hill,35,24,,,False,Mountain East,Pennsylvania State Athletic,Bishop Schmitt Field
+2023,1,Buffalo State,Brockport,6,42,,,False,Liberty League,Empire 8,Coyer Field
+2023,1,Millersville,St. Anselm,33,7,,,False,Pennsylvania State Athletic,Northeast 10,Chryst Field at Biemesderfer Stadium
+2023,1,Campbell,William & Mary,24,34,,,False,CAA,CAA,Barker-Lane Stadium
+2023,1,Stony Brook,Delaware,13,37,,,False,CAA,CAA,Kenneth P. LaValle Stadium
+2023,1,McMurry,Birmingham-Southern,19,20,,,True,American Southwest,Southern Athletic,War Memorial Stadium (AR)
+2023,1,Walsh,West Liberty,24,21,,,False,Great Midwest Athletic,Mountain East,Tom Benson Hall of Fame Stadium
+2023,1,Fairmont State,Bloomsburg,34,30,,,False,Mountain East,Pennsylvania State Athletic,Duvall-Rosier Field
+2023,1,Northeastern State,Fort Hays State,0,56,,,False,Mid America,Mid America,Gable Field at Doc Wadley Stadium
+2023,1,West Alabama,Angelo State,14,38,,,False,Gulf South,Lone Star,Tiger Stadium (AL)
+2023,1,Quincy,Chadron St,34,35,,,False,Great Lakes,Rocky Mountain,QU Stadium
+2023,1,Missouri S&T,Delta State,20,48,,,False,Great Lakes,Gulf South,Allgood-Bailey Stadium
+2023,1,Southwestern Oklahoma State,Ouachita Baptist,14,38,,,False,Great American,Great American,Milam Stadium
+2023,1,Southern Nazarene,Harding University,20,53,,,False,Great American,Great American,Southern Nazarene University Football Stadium
+2023,1,Southern Arkansas,Southeastern Oklahoma State,34,19,,,False,Great American,Great American,Wilkins Stadium
+2023,1,Kentucky State,Clark Atlanta,34,20,,,False,SIAC,SIAC,Alumni Stadium (KY)
+2023,1,Northwestern Oklahoma State,Arkansas-Monticello,24,49,,,False,Great American,Great American,Ranger Field
+2023,1,Wake Forest,Elon,37,17,,,False,ACC,CAA,Allegacy Federal Credit Union Stadium
+2023,1,University Of Charleston (WV),Gannon,22,13,,,False,Mountain East,Pennsylvania State Athletic,University of Charleston Stadium
+2023,1,Georgia State,Rhode Island,42,35,,,False,Sun Belt,CAA,Center Parc Stadium
+2023,1,Minnesota Duluth,Northern Michigan,47,10,,,False,Northern Sun,GLIAC,James S. Malosky Stadium
+2023,1,Minot State,Southwest Minnesota State,23,28,,,False,Northern Sun,Northern Sun,Herb Parker Stadium
+2023,1,Belhaven,Millsaps,47,7,,,False,USA South,Southern Athletic,Belhaven Bowl Stadium
+2023,1,Louisiana College,East Texas Baptist University,34,14,,,True,,American Southwest,Wildcat Field
+2023,1,East Stroudsburg University,Pace,62,9,,,False,Pennsylvania State Athletic,Northeast 10,Eiler-Martin Stadium
+2023,1,Concordia University St Paul,Upper Iowa University,43,20,,,False,Northern Sun,Northern Sun,Sea Foam Stadium
+2023,1,Ferris State,Mercyhurst,54,12,,,False,GLIAC,Pennsylvania State Athletic,Top Taggart Field
+2023,1,UConn,NC State,14,24,,,False,FBS Independents,ACC,Pratt & Whitney Stadium
+2023,1,Youngstown State,Valparaiso,52,10,,,False,MVFC,Pioneer,Stambaugh Stadium
+2023,1,Central Oklahoma,Nebraska-Kearney,24,21,,,False,Mid America,Mid America,Wantland Stadium
+2023,1,Utah,Florida,24,11,,,False,Pac-12,SEC,Rice-Eccles Stadium
+2023,1,Minnesota,Nebraska,13,10,,,False,Big Ten,Big Ten,Huntington Bank Stadium
+2023,1,Lindenwood,Wisconsin-Stevens Pt,77,9,,,False,Big South-OVC,Wisconsin,Hunter Stadium
+2023,1,Pittsburg St,Washburn,34,7,,,False,Mid America,Mid America,Carnie Smith Stadium
+2023,1,Abilene Christian,Northern Colorado,31,11,,,False,UAC,Big Sky,Wildcat Stadium (TX)
+2023,1,Missouri Western,Central Missouri,38,45,,,False,Mid America,Mid America,Craig Field at Spratt Memorial Stadium
+2023,1,Missouri Southern State,Northwest Missouri St,24,31,,,False,Mid America,Mid America,Fred G. Hughes Stadium
+2023,1,Emporia State University,Lincoln (MO),56,10,,,False,Mid America,Independent DII,Francis G. Welch Stadium
+2023,1,Tulsa,Arkansas-Pine Bluff,42,7,,,False,American Athletic,SWAC,Chapman Stadium
+2023,1,Weber State,Central Washington,35,10,,,False,Big Sky,Lone Star,Stewart Stadium
+2023,1,Eastern New Mexico,New Mexico Highlands,28,26,,,False,Lone Star,Rocky Mountain,Al Whitehead Field at Greyhound Stadium
+2023,1,Oklahoma Baptist,Arkansas Tech,23,21,,,False,Great American,Great American,Crain Family Stadium
+2023,1,Henderson State,East Central (OK),41,13,,,False,Great American,Great American,Ruggles Field at Carpenter-Haygood Stadium
+2023,1,Colorado School Of Mines,Grand Valley State University,31,28,,,False,Rocky Mountain,GLIAC,Marv Kay Stadium at Campbell Field
+2023,1,Dakota State University,Wisconsin-Lacrosse,6,31,,,True,,Wisconsin,Trojan Stadium
+2023,1,UAB,North Carolina A&T,35,6,,,False,American Athletic,CAA,Protective Stadium
+2023,1,South Dakota State,Western Oregon,45,7,,,False,MVFC,Lone Star,Dana J. Dykhouse Stadium
+2023,1,Beloit,Rockford,34,27,,,False,Midwest,NACC,Strong Stadium
+2023,1,Missouri,South Dakota,35,10,,,False,SEC,MVFC,Memorial Stadium
+2023,1,Arizona State,Southern Utah,24,21,,,False,Pac-12,UAC,Mountain America Stadium
+2023,1,West Florida,Kentucky Wesleyan,35,3,,,True,Gulf South,Great Midwest Athletic,Blue Wahoos Stadium
+2023,1,Nichols College,UMass Dartmouth,6,57,,,False,Commonwealth Coast,MSCAC,Vendetti Field
+2023,1,Eastern Michigan,Howard,33,23,,,False,Mid-American,MEAC,Rynearson Stadium
+2023,1,Muhlenberg,Moravian,53,12,,,False,Centennial,Landmark Conference,Scotty Wood Stadium
+2023,1,Curry College,Salve Regina,0,48,,,False,Commonwealth Coast,Commonwealth Coast,Walter M. Katz Field
+2023,1,Alfred University,Hobart College,9,31,,,False,Empire 8,Liberty League,Merrill Field at Yunevich Stadium
+2023,1,Lebanon Valley,Franklin & Marshall,12,16,,,False,Mid Atlantic,Centennial,Arnold Field (PA)
+2023,1,Michigan State,Central Michigan,31,7,,,False,Big Ten,Mid-American,Spartan Stadium
+2023,1,Catholic,McDaniel College,34,7,,,False,Landmark Conference,Centennial,Cardinal Stadium (DC)
+2023,1,Miami,Miami (OH),38,3,,,False,ACC,Mid-American,Hard Rock Stadium
+2023,1,Worcester Polytechnic Institute,Worcester St,44,13,,,False,NEWMAC,MSCAC,"Alumni Stadium (Worcester, MA)"
+2023,1,Georgia Tech,Louisville,34,39,,,True,ACC,ACC,Mercedes-Benz Stadium
+2023,1,Ursinus,Reading,38,6,,,False,Centennial,Mid Atlantic,Patterson Field
+2023,1,Hardin-Simmons,Albright,47,3,,,False,American Southwest,Mid Atlantic,Shelton Stadium
+2023,1,South Dakota Mines,Valley City State,31,14,,,False,Rocky Mountain,,O'Harra Stadium
+2023,1,Kansas,Missouri State,48,17,,,False,Big 12,MVFC,Memorial Stadium
+2023,1,Hawai'i,Stanford,24,37,,,False,Mountain West,Pac-12,Clarence T.C. Ching Athletics Complex
+2023,1,North Carolina Central,Winston-Salem,47,21,,,False,MEAC,CIAA,O'Kelly-Riddick Stadium
+2023,1,Holy Cross,Merrimack,42,20,,,False,Patriot,NEC,Fitton Field
+2023,1,Lehigh,Villanova,10,38,,,False,Patriot,CAA,Goodman Stadium
+2023,1,St. Thomas (MN),Black Hills State,36,26,,,False,Pioneer,Rocky Mountain,O'Shaughnessy Stadium
+2023,1,Mississippi Valley State,Central State (OH),21,24,,,True,SWAC,SIAC,Soldier Field
+2023,1,Texas Southern,Prairie View A&M,34,37,,,False,SWAC,SWAC,BBVA Compass Stadium
+2023,1,UT Permian Basin,Texas College,96,0,,,False,Lone Star,,Ratliff Stadium
+2023,1,Findlay,Truman State,10,20,,,False,Great Midwest Athletic,Great Lakes,Donnell Stadium
+2023,1,Lake Erie,Franklin Pierce,10,26,,,False,Great Midwest Athletic,Northeast 10,Jack Britt Memorial Stadium
+2023,1,Cal Poly,San Diego,27,10,,,False,Big Sky,Pioneer,Alex G. Spanos Stadium
+2023,1,Montana State,Utah Tech,63,20,,,False,Big Sky,UAC,Bobcat Stadium
+2023,1,Duquesne,Edinboro University,49,7,,,False,NEC,Pennsylvania State Athletic,Arthur J. Rooney Athletic Field
+2023,1,Central Connecticut,American International,44,0,,,False,NEC,Northeast 10,Arute Field
+2023,1,VMI,Davidson,12,7,,,False,Southern,Pioneer,Alumni Memorial Field
+2023,1,Nicholls,Sacramento State,24,38,,,False,Southland,Big Sky,Manning Field at John L. Guidry Stadium
+2023,1,Westminster College (MO),Rhodes College,0,47,,,False,Upper Midwest,Southern Athletic,Blue Jay Stadium
+2023,1,Western Colorado,West Texas A&M,28,6,,,False,Rocky Mountain,Lone Star,Mountaineer Bowl
+2023,1,Concord University,Emory & Henry College,10,56,,,False,Mountain East,South Atlantic,Callaghan Stadium
+2023,1,Notre Dame College,Ohio Dominican,23,21,,,False,Mountain East,Great Midwest Athletic,Mueller Field
+2023,1,Capital,Denison University,35,45,,,False,Ohio,North Coast,Bernlohr Stadium
+2023,1,Marietta,St John Fisher University,31,7,,,False,Ohio,Empire 8,Don Drumm Stadium
+2023,1,Guilford College,Greensboro College,36,21,,,False,Old Dominion,USA South,Armfield Athletic Center
+2023,1,LYONCOLL,Grinnell,18,12,,,True,,Midwest,
+2023,1,Michigan,East Carolina,30,3,,,False,Big Ten,American Athletic,Michigan Stadium
+2023,1,Cortland,Delaware Valley,42,13,,,False,Empire 8,Mid Atlantic,Stadium Red Field
+2023,1,Kalamazoo,Oberlin,42,10,,,False,Michigan,North Coast,Angell Field
+2023,1,Keystone,Gallaudet,27,6,,,False,Landmark Conference,ECFC,Athletic Field Complex
+2023,1,Alma,Ohio Northern,52,7,,,False,Michigan,Ohio,Bahlke Field
+2023,1,Shepherd,Southern Connecticut State,27,26,,,False,Pennsylvania State Athletic,Northeast 10,Ram Stadium (WV)
+2023,1,Western Connecticut St,Merchant Marine Academy,35,52,,,False,MSCAC,NEWMAC,Westside Athletic Complex
+2023,1,Shippensburg,Newberry,10,14,,,False,Pennsylvania State Athletic,South Atlantic,Seth Grove Stadium
+2023,1,Davenport,Thomas More College,31,17,,,False,GLIAC,,Farmers Insurance Athletic Complex
+2023,1,Otterbein,Ohio Wesleyan,21,35,,,False,Ohio,North Coast,"Memorial Stadium (Westerville, OH)"
+2023,1,Tennessee,Virginia,49,13,,,True,SEC,ACC,Nissan Stadium
+2023,1,Purdue,Fresno State,35,39,,,False,Big Ten,Mountain West,Ross-Ade Stadium
+2023,1,Hilbert College,Union (NY),0,65,,,True,North Coast,Liberty League,St. Francis High School
+2023,1,Iowa,Utah State,24,14,,,False,Big Ten,Mountain West,Kinnick Stadium
+2023,1,College Of New Jersey,Eastern University,41,21,,,False,New Jersey,Mid Atlantic,Lions Stadium
+2023,1,Kean,SUNY Morrisville,14,24,,,False,New Jersey,Empire 8,Kean Alumni Stadium
+2023,1,Assumption,Kutztown University,31,20,,,False,Northeast 10,Pennsylvania State Athletic,Multi-Sport Stadium
+2023,1,TCU,Colorado,42,45,,,False,Big 12,Pac-12,Amon G. Carter Stadium
+2023,1,University of Rochester (NY),Utica,17,20,,,False,Liberty League,Empire 8,Edwin Fauver Stadium
+2023,1,Kentucky,Ball State,44,14,,,False,SEC,Mid-American,Kroger Field
+2023,1,North Carolina Wesleyan,Randolph-Macon,9,51,,,False,USA South,Old Dominion,Bishop Stadium
+2023,1,SMU,Louisiana Tech,38,14,,,False,American Athletic,Conference USA,Gerald J. Ford Stadium
+2023,1,MIT,Bridgewater State,41,27,,,False,NEWMAC,MSCAC,Henry G. Steinbrenner '27 Stadium
+2023,1,Tiffin,McKendree,79,14,,,False,Great Midwest Athletic,Great Lakes,Frost-Kalnow Stadium
+2023,1,Bentley,West Chester,19,20,,,False,Northeast 10,Pennsylvania State Athletic,Bentley University Football Stadium
+2023,1,Endicott College,St. Lawrence,31,0,,,False,Commonwealth Coast,Liberty League,Hempstead Stadium
+2023,1,Oklahoma,Arkansas State,73,0,,,False,Big 12,Sun Belt,"Memorial Stadium (Norman, OK)"
+2023,1,Wilkes,Kings College (PA),23,27,,,False,Landmark Conference,Mid Atlantic,Schmidt Stadium
+2023,1,Johns Hopkins University,Ithaca College,27,17,,,False,Centennial,Liberty League,Homewood Field
+2023,1,Liberty,Bowling Green,34,24,,,False,Conference USA,Mid-American,Williams Stadium (VA)
+2023,1,Boston College,Northern Illinois,24,27,,,False,ACC,Mid-American,"Alumni Stadium (Chestnut Hill, MA)"
+2023,1,Dean College,Fitchburg State,33,17,,,False,ECFC,MSCAC,Dale Lippert Field
+2023,1,Georgetown,Marist,49,7,,,False,Patriot,Pioneer,Cooper Field
+2023,1,Saint John's (MN),Trinity University TX,34,31,,,False,Minnesota,Southern Athletic,Clemens Stadium
+2023,1,Widener,Lycoming,42,21,,,False,Mid Atlantic,Landmark Conference,Leslie C. Quick Jr. Stadium
+2023,1,Misericordia,Alfred State,14,24,,,False,Mid Atlantic,ECFC,Mangelsdorf Field
+2023,1,Stonehill,New Hampshire,17,51,,,False,NEC,CAA,W.B. Mason Stadium
+2023,1,Apprentice School,Averett,14,34,,,False,Independent DIII,Old Dominion,Apprentice Field
+2023,1,Husson,Norwich,28,14,,,False,Commonwealth Coast,NEWMAC,Dr. John W. Winkin Sports Complex
+2023,1,Air Force,Robert Morris,42,7,,,False,Mountain West,Big South-OVC,Falcon Stadium
+2023,1,Shenandoah,Methodist,44,29,,,False,Old Dominion,USA South,Shentel Stadium
+2023,1,Hampden-Sydney,Wabash College,28,29,,,False,Old Dominion,North Coast,Lewis C. Everett Stadium
+2023,1,Biddeford,Coast Guard,44,28,,,False,Commonwealth Coast,NEWMAC,Blue Storm Stadium
+2023,1,Bridgewater (VA),Susquehanna,19,51,,,False,Old Dominion,Landmark Conference,Jopson Athletic Complex
+2023,1,Wilmington (OH),Wooster,63,43,,,False,Ohio,North Coast,Wiliams Stadium (OH)
+2023,1,Delaware State,Bowie State,11,22,,,False,MEAC,CIAA,Alumni Stadium
+2023,1,Muskingum University,Ferrum,31,20,,,False,Ohio,Old Dominion,Sherman Field at McConagha Stadium
+2023,1,Illinois State,Dayton,41,0,,,False,MVFC,Pioneer,Hancock Stadium
+2023,1,Elizabeth City State,Catawba,23,31,,,False,CIAA,South Atlantic,Roebuck Stadium
+2023,1,Baldwin Wallace,Mount St. Joseph,33,46,,,False,Ohio,Heartland,George Finnie Stadium
+2023,1,Brevard College,Warner University,23,29,,,False,USA South,,Brevard Memorial Stadium
+2023,1,Sewanee,Maryville College (TN),8,28,,,False,Southern Athletic,USA South,Hardee-McGee Field
+2023,1,Castleton,Plymouth State,25,21,,,False,ECFC,MSCAC,Dave Wolk Stadium
+2023,1,Washington and Lee,Salisbury,7,28,,,False,Old Dominion,New Jersey,Wilson Field
+2023,1,Grove City College,Westminster (PA),17,7,,,False,Presidents',Presidents',Robert E. Thorn Field
+2023,1,Saint Vincent,Washington & Jefferson,0,51,,,False,Presidents',Presidents',Chuck Noll Field
+2023,1,William Paterson,FDU-Florham,29,33,,,False,New Jersey,Mid Atlantic,Wightman Stadium
+2023,1,Waynesburg,Allegheny,36,39,,,False,Presidents',Presidents',John F. Wiley Stadium
+2023,1,Dickinson (PA),Rensselaer,27,38,,,False,Centennial,Liberty League,Biddle Field
+2023,1,Gettysburg,Juniata College,40,20,,,False,Centennial,Landmark Conference,Shirk Field at Musselman Stadium
+2023,1,West Virginia Wesleyan,Johnson C Smith,6,49,,,False,Mountain East,CIAA,Cebe Ross Field
+2023,1,Western New England,Springfield,14,28,,,False,Commonwealth Coast,NEWMAC,Golden Bear Stadium
+2023,1,Defiance College,University of Mount Union,6,45,,,False,Heartland,Ohio,Justin F. Coressel Stadium
+2023,1,Franklin,Olivet College,32,35,,,False,Heartland,Michigan,"Stewart """"Red"""" Faught Stadium"
+2023,1,Centre College Kentucky,Hanover College,7,10,,,False,Southern Athletic,Heartland,Farris Stadium
+2023,1,St. Olaf,Central College,24,34,,,False,Minnesota,American Rivers,Klein Field at Manitou
+2023,1,Cornell College (IA),Coe College,6,56,,,False,Midwest,American Rivers,Van Metre Field at Ash Park
+2023,1,Elmhurst,Adrian,14,3,,,False,CCIW,Michigan,Langhorst Field
+2023,1,Iowa State,Northern Iowa,30,9,,,False,Big 12,MVFC,Jack Trice Stadium
+2023,1,Ohio,Long Island University,27,10,,,False,Mid-American,NEC,Peden Stadium
+2023,1,Hamline University,Crown College,45,13,,,False,Minnesota,Upper Midwest,Klas Field
+2023,1,Augsburg,Northwestern (MN),52,10,,,False,Minnesota,Upper Midwest,Edor Nelson Field
+2023,1,Chicago,Claremont-Mudd-Scripps College,15,24,,,False,Midwest,So. Cal.,Amos Alonzo Stagg Field
+2023,1,Norfolk State,Virginia St,24,33,,,False,MEAC,CIAA,"William Dick"""" Price Stadium"""""
+2023,1,Austin,Nebraska Wesleyan,7,19,,,False,American Southwest,American Rivers,Jerry E. Apple Stadium
+2023,1,Augustana University (SD),University of Mary,38,7,,,False,Northern Sun,Northern Sun,Kirkeby-Over Stadium
+2023,1,Dubuque,Wittenberg,27,28,,,False,American Rivers,North Coast,Chalmers Field
+2023,1,Gustavus Adolphus,Buena Vista,51,7,,,False,Minnesota,American Rivers,Hollingsworth Field
+2023,1,St Ambrose University  Iowa,Wisconsin-Stout,7,35,,,True,,Wisconsin,
+2023,1,St. Norbert,Ripon,23,7,,,False,NACC,Midwest,Donald J. Schneider Stadium
+2023,1,Concordia University Chicago,Greenville,14,41,,,False,NACC,Upper Midwest,Concordia Stadium
+2023,1,John Carroll University,Wisconsin-Whitewater,23,27,,,False,Ohio,Wisconsin,Don Shula Stadium at Wasmer Field
+2023,1,Ole Miss,Mercer,73,7,,,False,SEC,Southern,Vaught-Hemingway Stadium
+2023,1,Concordia-Wisconsin,Martin Luther,55,14,,,False,NACC,Upper Midwest,Tomasini Stadium
+2023,1,Aurora,Hope College,38,17,,,False,NACC,Michigan,Vago Field
+2023,1,Carthage,Albion,20,41,,,False,CCIW,Michigan,Art Keller Field
+2023,1,Montana,Butler,35,20,,,False,Big Sky,Pioneer,Washington-Grizzly Stadium
+2023,1,Hendrix College,Washington University (St. Louis),27,44,,,False,Southern Athletic,CCIW,Young-Wise Memorial Stadium
+2023,1,Roosevelt,North Central College,7,41,,,True,,CCIW,
+2023,1,Jacksonville State,East Tennessee State,49,3,,,False,Conference USA,Southern,AmFirst Stadium
+2023,1,Temple,Akron,24,21,,,False,American Athletic,Mid-American,Lincoln Financial Field
+2023,1,Wisconsin-Eau Claire,Concordia Moorhead,31,28,,,False,Wisconsin,Minnesota,Carson Park
+2023,1,Wisconsin-River Falls,Mary Hardin-Baylor,45,22,,,False,Wisconsin,American Southwest,David Smith Stadium at Ramer Field
+2023,1,William Jewell,Fort Lewis,42,6,,,True,Great Lakes,Rocky Mountain,Liberty North High School
+2023,1,Wisconsin-Oshkosh,Texas Lutheran,48,31,,,False,Wisconsin,American Southwest,J.J. Keller Field at Titan Stadium
+2023,1,Hampton,Grambling,35,31,,,True,CAA,SWAC,Red Bull Arena
+2023,1,Lane College,Miles College,24,37,,,False,SIAC,SIAC,Lane Field
+2023,1,Oregon,Portland State,81,7,,,False,Pac-12,Big Sky,Autzen Stadium
+2023,1,Colorado Mesa,Texas A&M-Kingsville,10,30,,,False,Rocky Mountain,Lone Star,Ralph Stocker Stadium
+2023,1,Western Kentucky,South Florida,41,24,,,False,Conference USA,American Athletic,Houchens Industries-L.T. Smith Stadium
+2023,1,Maryland,Towson,38,6,,,False,Big Ten,CAA,SECU Stadium
+2023,1,Washington,Boise State,56,19,,,False,Pac-12,Mountain West,Husky Stadium
+2023,1,Pittsburgh,Wofford,45,7,,,False,ACC,Southern,Acrisure Stadium
+2023,1,Auburn,Massachusetts,59,14,,,False,SEC,FBS Independents,Jordan-Hare Stadium
+2023,1,App State,Gardner-Webb,45,24,,,False,Sun Belt,Big South-OVC,Kidd Brewer Stadium
+2023,1,North Dakota State,Eastern Washington,35,10,,,True,MVFC,Big Sky,U.S. Bank Stadium
+2023,1,Notre Dame,Tennessee State,56,3,,,False,FBS Independents,Big South-OVC,Notre Dame Stadium
+2023,1,Wisconsin,Buffalo,38,17,,,False,Big Ten,Mid-American,Camp Randall Stadium
+2023,1,Cincinnati,Eastern Kentucky,66,13,,,False,Big 12,UAC,Nippert Stadium
+2023,1,Texas,Rice,37,10,,,False,Big 12,American Athletic,DKR-Texas Memorial Stadium
+2023,1,Indiana,Ohio State,3,23,,,False,Big Ten,Big Ten,"Memorial Stadium (Bloomington, IN)"
+2023,1,Pacific Lutheran,Redlands,14,24,,,False,Northwest,So. Cal.,Sparks Stadium
+2023,1,North Texas,California,21,58,,,False,American Athletic,Pac-12,DATCU Stadium
+2023,1,UNLV,Bryant,44,14,,,False,Mountain West,Big South-OVC,Allegiant Stadium
+2023,1,North Dakota,Drake,55,7,,,False,MVFC,Pioneer,Alerus Center
+2023,1,Puget Sound,Lewis & Clark College,42,38,,,False,Northwest,Northwest,Baker Stadium
+2023,1,California Lutheran University,Southwestern University,41,35,,,False,So. Cal.,Southern Athletic,William Rolland Stadium
+2023,1,La Verne,Willamette,21,24,,,False,So. Cal.,Northwest,Ortmayer Stadium
+2023,1,Syracuse,Colgate,65,0,,,False,ACC,Patriot,JMA Wireless Dome
+2023,1,Arkansas,Western Carolina,56,13,,,True,SEC,Southern,War Memorial Stadium (AR)
+2023,1,SUNY Maritime,Hartwick,34,11,,,False,NEWMAC,Empire 8,Reinhart Field
+2023,1,Mississippi State,SE Louisiana,48,7,,,False,SEC,Southland,Davis Wade Stadium
+2023,1,Christopher Newport,Southern Virginia,45,0,,,False,New Jersey,USA South,TowneBank Stadium
+2023,1,Indianapolis,Hillsdale,39,20,,,False,Great Lakes,Great Midwest Athletic,Key Stadium
+2023,1,Edward Waters,Florida Memorial University,21,38,,,False,SIAC,,Earl Kitchings Stadium
+2023,1,Allen,ERSKINE,24,17,,,False,SIAC,South Atlantic,W.C. Hawkins Stadium
+2023,1,Benedict College,Shaw,52,0,,,False,SIAC,CIAA,Charlie W. Johnson Stadium
+2023,1,Slippery Rock,Wayne State (MI),28,17,,,False,Pennsylvania State Athletic,GLIAC,Mihalik-Thompson Stadium
+2023,1,Sacred Heart,Lafayette,14,19,,,False,NEC,Patriot,Campus Field
+2023,1,Lock Haven University,Post University,58,7,,,False,Pennsylvania State Athletic,Independent DII,Hubert Jack Stadium
+2023,1,Stetson,St. Thomas University (Fl),34,33,,,False,Pioneer,,Spec Martin Municipal Stadium
+2023,1,Livingstone,Bluefield State,7,41,,,False,CIAA,Independent DII,Alumni Memorial Stadium (NC)
+2023,1,Florida Atlantic,Monmouth,42,20,,,False,American Athletic,CAA,FAU Stadium
+2023,1,Charlotte,South Carolina State,24,3,,,False,American Athletic,MEAC,Jerry Richardson Stadium
+2023,1,Alabama State,Southern,14,10,,,False,SWAC,SWAC,Hornet Stadium
+2023,1,Fordham,Wagner,46,16,,,False,Patriot,NEC,Jack Coffey Field
+2023,1,Lenoir-Rhyne,St. Augustine's,45,7,,,False,South Atlantic,CIAA,Helen and Leonard Moretz Stadium
+2023,1,Berry College,Huntingdon College (AL),67,34,,,False,Southern Athletic,USA South,Valhalla Stadium
+2023,1,Georgia Southern,The Citadel,34,0,,,False,Sun Belt,Southern,Allen E. Paulson Stadium
+2023,1,Marshall,UAlbany,21,17,,,False,Sun Belt,CAA,Joan C. Edwards Stadium
+2023,1,James Madison,Bucknell,38,3,,,False,Sun Belt,Patriot,Bridgeforth Stadium
+2023,1,Anderson (IN),Trine University,0,61,,,False,Heartland,Michigan,Macholtz Stadium
+2023,1,Manchester,North Park,0,27,,,False,Heartland,CCIW,Carl W. Burt Memorial Stadium
+2023,1,Georgia,UT Martin,48,7,,,False,SEC,Big South-OVC,Sanford Stadium
+2023,1,Richmond,Morgan State,10,17,,,False,CAA,MEAC,E. Claiborne Robins Stadium
+2023,1,USC,Nevada,66,14,,,False,Pac-12,Mountain West,Los Angeles Memorial Coliseum
+2023,1,Florida International,Maine,14,12,,,False,Conference USA,CAA,FIU Stadium
+2023,1,Illinois College,Millikin,31,0,,,False,Midwest,CCIW,England Stadium
+2023,1,Southern Illinois,Austin Peay,49,23,,,False,MVFC,UAC,Saluki Stadium
+2023,1,Oklahoma Panhandle St,Southwest Baptist,7,65,,,True,Independent DII,Great Lakes,
+2023,1,Valdosta State,Point University,63,10,,,False,Gulf South,,Bazemore-Hyder Stadium
+2023,1,Memphis,Bethune-Cookman,56,14,,,False,American Athletic,SWAC,Simmons Bank Liberty Stadium
+2023,1,Simpson College (IA),Augustana (IL),27,49,,,False,American Rivers,CCIW,Bill Buxton Stadium
+2023,1,Houston,UTSA,17,14,,,False,Big 12,American Athletic,TDECU Stadium
+2023,1,Oklahoma State,Central Arkansas,27,13,,,False,Big 12,UAC,Boone Pickens Stadium
+2023,1,North Alabama,Chattanooga,41,27,,,False,UAC,Southern,Braly Municipal Stadium
+2023,1,Anna Maria College,Westfield State,51,27,,,False,ECFC,MSCAC,Caparso Field
+2023,1,Texas A&M,New Mexico,52,10,,,False,SEC,Mountain West,Kyle Field
+2023,1,UL Monroe,Army,17,13,,,False,Sun Belt,FBS Independents,Malone Stadium
+2023,1,Southern Miss,Alcorn State,40,14,,,False,Sun Belt,SWAC,M. M. Roberts Stadium
+2023,1,Troy,Stephen F. Austin,48,30,,,False,Sun Belt,UAC,Veterans Memorial Stadium (AL)
+2023,1,Colorado State,Washington State,24,50,,,False,Mountain West,Pac-12,Canvas Stadium
+2023,1,Loras College,Benedictine University,42,41,,,False,American Rivers,NACC,Rock Bowl
+2023,1,Baylor,Texas State,31,42,,,False,Big 12,Sun Belt,McLane Stadium
+2023,1,Thiel,Case Western Reserve,0,14,,,False,Presidents',Presidents',Alumni Stadium (PA)
+2023,1,Kansas State,Southeast Missouri State,45,0,,,False,Big 12,Big South-OVC,Bill Snyder Family Stadium
+2023,1,Bluffton,Kenyon,51,35,,,False,Heartland,North Coast,Alumni Field (OH)
+2023,1,Murray State,Presbyterian,41,10,,,False,MVFC,Pioneer,Roy Stewart Stadium
+2023,1,Vanderbilt,Alabama A&M,47,13,,,False,SEC,SWAC,FirstBank Stadium
+2023,1,Rose-Hulman,Depauw,21,33,,,False,Heartland,North Coast,Cook Stadium
+2023,1,Houston Christian,Little Rock,66,0,,,False,Southland,,Husky Stadium
+2023,1,Wisconsin-Lutheran,Lake Forest College,0,24,,,False,NACC,Midwest,Warrior Field at Raabe Stadium
+2023,1,LAKELAND,Savannah St,20,23,,,True,,SIAC,
+2023,1,UVA Wise,Union College,48,0,,,False,South Atlantic,,Carl Smith Stadium
+2023,1,Eureka College,Knox College,41,16,,,False,NACC,Midwest,Pete FioRito Stadium at McKinzie Field
+2023,1,Macalester,Minnesota Morris,44,30,,,False,Minnesota,Upper Midwest,Macalester Stadium
+2023,1,Wyoming,Texas Tech,35,33,,,False,Mountain West,Big 12,War Memorial Stadium
+2023,1,Louisiana,Northwestern State,38,13,,,False,Sun Belt,Southland,Cajun Field
+2023,1,Geneva,Carnegie Mellon,0,31,,,False,Presidents',Presidents',Reeves Field (PA)
+2023,1,Alabama,Middle Tennessee,56,7,,,False,SEC,Conference USA,Bryant-Denny Stadium
+2023,1,Penn State,West Virginia,38,15,,,False,Big Ten,Big 12,Beaver Stadium
+2023,1,North Carolina,South Carolina,31,17,,,True,ACC,SEC,Bank of America Stadium
+2023,1,Illinois,Toledo,30,28,,,False,Big Ten,Mid-American,"Memorial Stadium (Champaign, IL)"
+2023,1,Adams State,Lincoln (CA),35,16,,,False,Rocky Mountain,,Rex Stadium
+2023,1,CSU Pueblo,Midwestern State,37,8,,,False,Rocky Mountain,Lone Star,Neta and Eddie DeRose ThunderBowl
+2023,1,Virginia Tech,Old Dominion,36,17,,,False,ACC,Sun Belt,Lane Stadium
+2023,1,NEWBERG,Howard Payne,3,17,,,False,Northwest,American Southwest,Stoffer Family Stadium
+2023,1,Western New Mexico,Sul Ross State,42,28,,,False,Lone Star,American Southwest,Ben Altamirano Field
+2023,1,Tulane,South Alabama,37,17,,,False,American Athletic,Sun Belt,Yulman Stadium
+2023,1,Wartburg,Monmouth (IL),62,35,,,False,American Rivers,Midwest,Walston-Hoover Stadium
+2023,1,McNeese,Tarleton State,34,52,,,False,Southland,UAC,Cowboy Stadium
+2023,1,UTEP,Incarnate Word,28,14,,,False,Conference USA,Southland,Sun Bowl
+2023,1,New Mexico State,Western Illinois,58,21,,,False,Conference USA,MVFC,Aggie Memorial Stadium
+2023,1,Arizona,Northern Arizona,38,3,,,False,Pac-12,Big Sky,Arizona Stadium
+2023,1,Pacific (OR),Chapman,0,0,,,False,Northwest,So. Cal.,Hanson Stadium
+2023,1,BYU,Sam Houston,14,0,,,False,Big 12,Conference USA,LaVell Edwards Stadium
+2023,1,San Diego State,Idaho State,36,28,,,False,Mountain West,Big Sky,Snapdragon Stadium
+2023,1,UCLA,Coastal Carolina,27,13,,,False,Pac-12,Sun Belt,Rose Bowl
+2023,1,Rutgers,Northwestern,24,7,,,False,Big Ten,Big Ten,SHI Stadium
+2023,1,Florida A&M,Jackson State,28,10,,,True,SWAC,SWAC,Hard Rock Stadium
+2023,1,San José State,Oregon State,17,42,,,False,Mountain West,Pac-12,CEFCU Stadium
+2023,1,Morehouse College,Virginia Union,13,45,,,True,SIAC,CIAA,Tom Benson Hall of Fame Stadium
+2023,1,Tuskegee,Fort Valley State,37,31,,,True,SIAC,SIAC,Cramton Bowl
+2023,1,Florida State,LSU,45,24,,,True,ACC,SEC,Camping World Stadium
+2023,1,Duke,Clemson,28,7,,,False,ACC,ACC,Wallace Wade Stadium
